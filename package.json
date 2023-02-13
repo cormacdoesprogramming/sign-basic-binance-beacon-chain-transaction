@@ -1,0 +1,16 @@
+{
+  "name": "sign-basic-binance-chain-transaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cormacdoesprogramming",
+  "license": "ISC",
+  "dependencies": {
+    "@binance-chain/javascript-sdk": "^4.2.0",
+    "big.js": "^6.2.1",
+    "dotenv": "^16.0.3"
+  }
+}
